@@ -21,7 +21,7 @@ Hier findest du die verschiedenen Bereiche meiner Toolbox:
 
 1.  Repository clonen:
     ```powershell
-      git clone git clone https://github.com/LorenzCoder/LorenzCoder-Toolbox.git
+      git clone https://github.com/LorenzCoder/LorenzCoder-Toolbox.git
     ```
 2.  In das entsprechende Verzeichnis wechseln und die Dokumentation in der dortigen `README.md` lesen.
 3.  _Hinweis:_ Eventuell musst du die Execution Policy in der PowerShell anpassen (`Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`).
